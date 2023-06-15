@@ -32,7 +32,7 @@ In this module, we'll leverage AWS Amplify to easily configure continuous deploy
 
 Select the Region from the dropdown in the upper right corner of the [AWS Management Console](https://console.aws.amazon.com/console/home).
 
-![A screenshot of a computer Description automatically generated with medium confidence](media/e9b3a8a52193a81dc7664b360ee5441b.png)
+![p17](https://github.com/rupar19/AWS_Projects/assets/25507934/e81c0db5-484c-48be-b545-5e0bb11332b3)
 
 **Create Git Repository :** We will use CodeCommit to store our application code, but you can do the same by [creating a repository](https://help.github.com/en/articles/create-a-repo) on GitHub
 
