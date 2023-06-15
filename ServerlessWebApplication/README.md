@@ -12,7 +12,6 @@ The application architecture uses:
 -   [Amazon Cognito](https://aws.amazon.com/cognito/)
 -   [AWS Amplify Console](https://aws.amazon.com/amplify/)
 
-![A picture containing text, screenshot, diagram, font Description automatically generated](media/5df8da4fc30bac2dd6baf73ba7f2af72.png)
 
 **Modules**
 
