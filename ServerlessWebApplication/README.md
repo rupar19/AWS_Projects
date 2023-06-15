@@ -45,7 +45,8 @@ Select the Region from the dropdown in the upper right corner of the [AWS Manage
 
     Back in the CodeCommit console, from the Clone URL dropdown, select Clone HTTPS
 
-    ![A screenshot of a computer Description automatically generated with low confidence](media/02bd5873fdc1a3544fae4d1d62c7c284.png)
+    ![p16](https://github.com/rupar19/AWS_Projects/assets/25507934/28babc2e-73fa-41d7-b3e5-a53dcdaeb97c)
+
 
     From a terminal window run git clone and the HTTPS URL of the repository:
 
