@@ -77,7 +77,7 @@ git push
 -   If you used GitHub, you'll need to authorize AWS Amplify to your GitHub account.
 -   From the dropdown, select the Repository and Branch you just created and select Next.
 
-    ![A screenshot of a computer Description automatically generated with medium confidence](media/f43d3a333d4779ee5598e1cac892d1c4.png)
+   ![p15](https://github.com/rupar19/AWS_Projects/assets/25507934/133f724b-2b19-490b-9d6b-c5b95a35ed0f)
 
 -   On the Configure build settings page, leave all the defaults, Select Allow AWS Amplify to automatically deploy all files hosted in your project root directory and select Next.
 -   On the "Review" page select Save and deploy
