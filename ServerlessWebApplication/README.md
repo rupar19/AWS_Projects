@@ -245,7 +245,7 @@ In this module, we will use Amazon API Gateway to expose the Lambda function you
 
     Here is the updated config.js file.
 
-    ![A computer code on a white background Description automatically generated with low confidence](media/84a18d2f7ba4c0de08857443fbf11969.png)
+  ![p2](https://github.com/rupar19/AWS_Projects/assets/25507934/bac54f2a-5f74-40d2-a767-5a2930f5f636)
 
 -   Save the modified file and push it to your Git repository to have it automatically deploy to Amplify Console.
 -   **Validate the implementation**: Clear your browser cache before proceeding, as there might be a delay in seeing the updated content of the conf ig.js file in your S3 bucket.
