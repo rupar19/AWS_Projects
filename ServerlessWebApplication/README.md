@@ -142,7 +142,7 @@ The updated config.js file
 -   Upon successful login, you will be redirected to the /ride.html page.
 -   We should see a notification that the API is not configured.
 
-![A screenshot of a computer error Description automatically generated with low confidence](media/a64a34e8881979498c0273e09fccdbed.png)
+![p19](https://github.com/rupar19/AWS_Projects/assets/25507934/9efa8e49-5fb4-40ca-9738-8f0e550e5870)
 
 **Module 3: Serverless Service Backend**
 
