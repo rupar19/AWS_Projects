@@ -182,7 +182,8 @@ Scroll down to the "Code source" section, replace the existing code in the code 
 -   In the AWS Lambda console, go to the main edit screen of your function and click on "Test."
 -   Choose "Configure test event" from the dropdown and keep "Create new event" selected.
 -   Enter "TestRequestEvent" as the Event name and copy and paste the provided test event into the editor.
--   ![A screenshot of a computer program Description automatically generated with low confidence](media/3d428d69ef0a10aa9b3270c308dfee44.png)After saving the test event, click on "Test" with the "TestRequestEvent" selected in the dropdown.
+-  ![p7](https://github.com/rupar19/AWS_Projects/assets/25507934/c9ddfcef-374f-4dd0-a081-1023b7378ee3)
+After saving the test event, click on "Test" with the "TestRequestEvent" selected in the dropdown.
 -   Scroll to the top of the page and expand the "Details" section of the "Execution result" to verify the successful execution of the function with the expected function result.
 
 ![A picture containing text, font, screenshot, line Description automatically generated](media/f9e9b42ae9688a6a92494c9aa8c1293a.png)
