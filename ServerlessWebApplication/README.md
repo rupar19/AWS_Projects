@@ -83,7 +83,7 @@ git push
 -   On the "Review" page select Save and deploy
 -   The process takes a couple of minutes for Amplify Console to create the necessary resources and to deploy the code.
 
-![A screenshot of a web page Description automatically generated with low confidence](media/955abbccd5ca2daa8322ad4e5943456d.png)
+![p14](https://github.com/rupar19/AWS_Projects/assets/25507934/de5e9dc4-e8ca-4f15-b8b8-89d78b4495c1)
 
 Once completed, click on the site image to launch your Wild Rydes site.
 
