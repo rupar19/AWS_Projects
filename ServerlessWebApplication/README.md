@@ -186,7 +186,7 @@ Scroll down to the "Code source" section, replace the existing code in the code 
 After saving the test event, click on "Test" with the "TestRequestEvent" selected in the dropdown.
 -   Scroll to the top of the page and expand the "Details" section of the "Execution result" to verify the successful execution of the function with the expected function result.
 
-![A picture containing text, font, screenshot, line Description automatically generated](media/f9e9b42ae9688a6a92494c9aa8c1293a.png)
+![p6](https://github.com/rupar19/AWS_Projects/assets/25507934/de9e0551-4e02-4f8a-ac79-2f771b48352d)
 
 **Module 4: Build a RESTful API**
 
