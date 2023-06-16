@@ -224,7 +224,7 @@ In this module, we will use Amazon API Gateway to expose the Lambda function you
 -   Go to the Method Request card and click on the pencil icon next to Authorization.
 -   Select the WildRydes Cognito user pool authorizer from the dropdown list and click the checkmark icon.
 
-    ![A screenshot of a computer Description automatically generated](media/d6af4cfea9c3f284809116b82fb73b28.png)
+    ![p4](https://github.com/rupar19/AWS_Projects/assets/25507934/18d8ec88-dfb8-4778-af2b-dc4d66de172f)
 
     **Deploy the API:** To deploy the API follow the below steps.
 
