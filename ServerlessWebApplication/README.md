@@ -202,7 +202,7 @@ In this module, we will use Amazon API Gateway to expose the Lambda function you
 -   Choose "Edge optimized" in the Endpoint Type dropdown (best for public services accessed from the Internet).
 -   Finally, click Create API.
 
-    ![A screenshot of a computer Description automatically generated with low confidence](media/dc2697a94a9504f91e45e6ca2902c1a6.png)
+  ![p5](https://github.com/rupar19/AWS_Projects/assets/25507934/63003129-22e1-4439-a708-248b2b051435)
 
     **Create a new resource and method:** Create /ride resource, add POST method, configure Lambda proxy integration with RequestUnicorn function.
 
