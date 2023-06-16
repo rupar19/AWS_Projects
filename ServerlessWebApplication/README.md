@@ -234,7 +234,7 @@ In this module, we will use Amazon API Gateway to expose the Lambda function you
 -   Click Deploy.
 -   Take note of the Invoke URL, as you will need it in the next section.
 
-![A screenshot of a computer Description automatically generated with medium confidence](media/ce3c3bd7de928df6f1f40a35b093e29b.png)
+![p3](https://github.com/rupar19/AWS_Projects/assets/25507934/86eddd3f-620c-4b8d-a331-2fdad0967465)
 
 **Update the config.js file:** To update the /js/config.js file:
 
