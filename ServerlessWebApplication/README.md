@@ -91,7 +91,7 @@ Once completed, click on the site image to launch your Wild Rydes site.
 
 Clicking on the link for Master we'll see the build and deployment details related to our branch.
 
-![A screenshot of a computer Description automatically generated with medium confidence](media/87595fa43eae86a54990e7edaadd35a5.png)
+![p12](https://github.com/rupar19/AWS_Projects/assets/25507934/f3a1f242-133c-4a1e-98cd-6ba8ea93b1b5)
 
 **Modify the website title:** To test the automatic rebuilding and redeployment process with AWS Amplify Console:
 
