@@ -254,6 +254,5 @@ In this module, we will use Amazon API Gateway to expose the Lambda function you
 -   Once the map loads, click on the map to set a pickup location.
 -   Choose "Request Unicorn" and observe the right sidebar notification indicating a unicorn is on its way, followed by a flying unicorn icon moving towards your pickup location.
 
-    ![A map of a city Description automatically generated with medium confidence](media/a623c219f4f200e9f528cbae38907aa7.png)
-
+   ![p1](https://github.com/rupar19/AWS_Projects/assets/25507934/85d19c43-ceb5-4de6-af3d-b73ed95f59d1)
     **Congratulations! We have built a serverless web application using AWS.**
