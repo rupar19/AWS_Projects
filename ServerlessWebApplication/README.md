@@ -101,7 +101,7 @@ Clicking on the link for Master we'll see the build and deployment details relat
 -   Amplify Console will detect the repository update and quickly begin the build process.
 -   Monitor the process on the Amplify Console page to see the changes reflected in the deployed site.
 
-![A screenshot of a computer Description automatically generated with low confidence](media/39696456d1a2d22eaf6e00bc1b0af949.png)
+![p11](https://github.com/rupar19/AWS_Projects/assets/25507934/f2757333-8b42-478e-8b0c-6a5a18363127)
 
 **Module 2: User Management**
 
