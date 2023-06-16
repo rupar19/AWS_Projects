@@ -87,7 +87,7 @@ git push
 
 Once completed, click on the site image to launch your Wild Rydes site.
 
-![A picture containing horse, mammal, screenshot, graphic design Description automatically generated](media/7804fc1e21d51d6aa6196f664525408e.png)
+![p13](https://github.com/rupar19/AWS_Projects/assets/25507934/aef0a5f7-374e-4443-ba53-c8598b53423d)
 
 Clicking on the link for Master we'll see the build and deployment details related to our branch.
 
