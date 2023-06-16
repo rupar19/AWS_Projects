@@ -164,7 +164,7 @@ In this module, AWS Lambda and Amazon DynamoDB will be utilized to create a back
 -   Go to the AWS Management Console, select IAM in the "Security, Identity & Compliance" section, and choose "Roles" in the left navigation pane.
 -   Create a new role named "WildRydesLambda" with the role type set as AWS Lambda, attach the "AWSLambdaBasicExecutionRole" managed policy, and create a custom inline policy named "DynamoDBWriteAccess" allowing the "PutItem" action for the previously created DynamoDB table.
 
-![A screenshot of a computer Description automatically generated with medium confidence](media/a570d697d6e85327556a4fc747bd32c4.png)
+![p9](https://github.com/rupar19/AWS_Projects/assets/25507934/0efa842d-2a7e-4d08-a7a8-17c8daac7642)
 
 **Create a Lambda function for handling request:** To create the core function for processing API requests and dispatching unicorns, go to the AWS Lambda console and create a new Lambda function named "RequestUnicorn." Copy and paste the code from the provided example implementation (requestUnicorn.js) into the Lambda console's editor and ensure that you configure the function to use the previously created "WildRydesLambda" IAM role.
 
