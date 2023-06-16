@@ -176,8 +176,7 @@ Select the "Node.js 16.x" runtime and choose the existing role "WildRydesLambda"
 
 Scroll down to the "Code source" section, replace the existing code in the code editor with the contents of "requestUnicorn.js," and click on "Deploy."
 
-![A screenshot of a computer Description automatically generated with medium confidence](media/17d4c63267208ee092af4b0de6464b51.png)
-
+![p8](https://github.com/rupar19/AWS_Projects/assets/25507934/2e72406f-f33d-4f46-a3f3-ce7eb72aab86)
 **Validate the implementation:** In this module, we will test the function that is created using the AWS Lambda console, and in the next module, we will integrate a REST API with API Gateway to invoke the function from our browser-based application.
 
 -   In the AWS Lambda console, go to the main edit screen of your function and click on "Test."
