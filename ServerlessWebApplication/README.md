@@ -129,7 +129,7 @@ In this module we'll create an Amazon Cognito user pool to manage users' account
 
 The updated config.js file
 
-![A picture containing text, screenshot, font, line Description automatically generated](media/18218e160e2f3b3f8096b6940e7f6c89.png)
+![p10](https://github.com/rupar19/AWS_Projects/assets/25507934/9b3c8ac9-785d-4e5c-b113-376009d8a05d)
 
 **Validate the Implementation:**
 
