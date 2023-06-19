@@ -200,7 +200,7 @@ When creating a new Connect environment, there is a default workflow available u
 -   Head back to the 'Contact Flows' section listed above and in the top right click on 'Create contact flow'.
 -   In the top right click on the down arrow next to the "Save" button and click Import Flow (beta).
 
-![](media/7943f210bb8c142e1d3b3226ab457475.png)
+![Picture23](https://github.com/rupar19/AWS_Projects/assets/25507934/411959fd-f651-4fd3-9d44-3d8481b465f0)
 
 -   Browse and find the file labelled Simple Workflow
 -   Once the flow is uploaded you will see the following flow:
