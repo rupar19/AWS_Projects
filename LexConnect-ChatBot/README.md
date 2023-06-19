@@ -210,7 +210,7 @@ The top line of the flow diagram configures the flow, including the choice of Am
 
 On the second line we create a message to say to the customer dialing in:
 
-![](media/fd038b89c7714d35d243abd7f4d35e0d.png)
+![Picture25](https://github.com/rupar19/AWS_Projects/assets/25507934/63029848-2d02-4f3d-956f-e6552388523b)
 
 This is completely customisable, and we can even record our own audio prompt. Following this we transfer the caller to the queue ready for an advisor.
 
