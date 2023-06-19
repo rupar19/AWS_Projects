@@ -242,11 +242,10 @@ We are now going to leverage the Lex Bot within the contact flow.
   ![Picture30](https://github.com/rupar19/AWS_Projects/assets/25507934/c63c2e96-fb4b-4651-ad91-b16f3bcb3fbe)
     We are now going to modify the simple workflow to integrate your Lex bot. On the left-hand menu chose "Interact" and drag "Get Customer Input" into your workflow.
 
-    ![](media/c3d4e05a95a74df7652d82714a887e72.png)
-
+    ![Picture31](https://github.com/rupar19/AWS_Projects/assets/25507934/f7d62b85-59b0-41bb-a96a-06d8563c3d8b)
     If we click on the top line of the box, you have dragged in you will be presented with the following option on the right-hand side of your screen:
 
-  ![Picture31](https://github.com/rupar19/AWS_Projects/assets/25507934/f7d62b85-59b0-41bb-a96a-06d8563c3d8b)
+ ![Picture32](https://github.com/rupar19/AWS_Projects/assets/25507934/b1095549-97b0-4b3a-949b-eac22f85ce8b)
 
 Within this edit window we are going to add a starting question (to introduce the bot) - click on 'Text to speech' and enter some text into the box below (eg "How can we help you today?").
 
@@ -256,11 +255,11 @@ Finally, we need to add the "Intents" you wish to allow flows from - add the int
 
 -   We now need to adjust the Simple workflow to introduce our Lex bot. First, you need to remove the link between the Play Prompt and Transfer to queue. You can remove a link by hovering over the arrow and clicking on the red cross.
 
-![Picture32](https://github.com/rupar19/AWS_Projects/assets/25507934/b1095549-97b0-4b3a-949b-eac22f85ce8b)
-
+  ![Picture33](https://github.com/rupar19/AWS_Projects/assets/25507934/6550bbbb-4f81-4529-b58f-00c1cfa00398)
 -   Once the link has been removed, we need to introduce our recently created Input. Click and hold on the circle on the Okay within Play prompt and join it to our new box. When a connection is successfully made there will be a yellow circle at the end of the block
 
-   ![Picture33](https://github.com/rupar19/AWS_Projects/assets/25507934/6550bbbb-4f81-4529-b58f-00c1cfa00398)
+  ![Picture34](https://github.com/rupar19/AWS_Projects/assets/25507934/470afd16-2d5e-4167-a3b1-a627c48bc8b9)
+
 
     We now have the input flow, but we need to connect the output of the Input. If you join the "Default" option to the "Transfer to Queue" block and the other two options to "Disconnect / Hang Up".
 
@@ -274,7 +273,7 @@ To create a flow back to an advisor we need to go back to edit the Lex bot we cr
 
 -   Head back to the Lex bot you created in Lab 1 AWS console. Click on the + symbol next to Intents and add a new intent called "Advisor”.
 
-   ![Picture34](https://github.com/rupar19/AWS_Projects/assets/25507934/470afd16-2d5e-4167-a3b1-a627c48bc8b9)
+   ![Picture35](https://github.com/rupar19/AWS_Projects/assets/25507934/fd736c3e-613e-4d77-92f6-72474e82bc2d)
 
 -   Add the following utterances:
 -   advisor
@@ -291,8 +290,7 @@ To create a flow back to an advisor we need to go back to edit the Lex bot we cr
 
     our utterances should now look like this:
 
-   ![Picture35](https://github.com/rupar19/AWS_Projects/assets/25507934/fd736c3e-613e-4d77-92f6-72474e82bc2d)
-
+   ![Picture36](https://github.com/rupar19/AWS_Projects/assets/25507934/97371f43-fba5-4731-b6d4-e01aee42dce1)
 -   Click 'Build' at the top.
 -   At this point we should also modify the GetBalanceCheck Intent to also add the utterance:
 -   Two
@@ -301,16 +299,14 @@ for the same reason as above.
 
 -   Now we need to add the intent to our Connect flow. Head to your flow and click on Get Customer Input Flow. Click on "Add another intent" and type Advisor.
 
-![Picture36](https://github.com/rupar19/AWS_Projects/assets/25507934/97371f43-fba5-4731-b6d4-e01aee42dce1)
+![Picture37](https://github.com/rupar19/AWS_Projects/assets/25507934/44899d21-1260-45fc-b93e-14d378d20086)
 
 -   Having added an additional Intent this is now added to the flow.
 
-![Picture37](https://github.com/rupar19/AWS_Projects/assets/25507934/44899d21-1260-45fc-b93e-14d378d20086)
-
+ ![Picture38](https://github.com/rupar19/AWS_Projects/assets/25507934/20f9ee72-15eb-4065-8c27-e665e34dd008)
 -   You will want to join the arrow from the "Advisor" intent into the transfer to queue flow option.
 
-   ![Picture38](https://github.com/rupar19/AWS_Projects/assets/25507934/20f9ee72-15eb-4065-8c27-e665e34dd008)
-
+     ![Picture39](https://github.com/rupar19/AWS_Projects/assets/25507934/7d35e209-43e4-44df-9465-7a64b805676d)
 -   Click Save & publish and recall your contact centre. You can now either ask for an advisor (or press 1) on your keypad or continue with the Lex flow you built earlier by selecting 2.
 
 # Step 5: Interacting with your user based on their dialer number (Extra Credits)
@@ -321,15 +317,14 @@ When customer calls Amazon Connect the service has access to the caller number s
 -   Open the lambda function code you will find here (myPersonalResponder_v1.js). Copy and paste the code into the inline editor – make sure that you overwrite any template code that is already in the code box and save. At the top of the file is a
 -   Within the Connect Admin (where you added your Lex bot) you can also attach Lambda functions. You will need to modify your workflow to add your new Lambda.
 
-    ![Picture39](https://github.com/rupar19/AWS_Projects/assets/25507934/7d35e209-43e4-44df-9465-7a64b805676d)
-
+      ![Picture40](https://github.com/rupar19/AWS_Projects/assets/25507934/5120cf18-2638-4ace-a37b-359d171c9b38)
 -   Head to your workflow and Click Integrate from the left-hand menu and drag "Invoke AWS function
 
-   ![Picture40](https://github.com/rupar19/AWS_Projects/assets/25507934/5120cf18-2638-4ace-a37b-359d171c9b38)
+   ![Picture41](https://github.com/rupar19/AWS_Projects/assets/25507934/b648764f-c4eb-4cd4-beba-44ed512a7d81)
 
     " And add the lambda function to the workflow:
 
-    ![Picture41](https://github.com/rupar19/AWS_Projects/assets/25507934/b648764f-c4eb-4cd4-beba-44ed512a7d81)
+    ![Picture42](https://github.com/rupar19/AWS_Projects/assets/25507934/8b67442c-3617-4753-aa8a-1123e06bc843)
 
 -   Review the Advanced_Workflow by Importing it as a new Flow, in this flow we add following steps:
 -   Invoke our AWS Lambda function
