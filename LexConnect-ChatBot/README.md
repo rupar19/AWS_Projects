@@ -134,7 +134,7 @@ To do this, we go back to the Lex Console.
 
 To modify the Lambda function, we need to locate the line containing "return simpleResponse (intentRequest, callback);" and comment it out by adding "//" at the beginning. Then, we remove the "//" from the line below it, so it appears as:
 
-![A screen shot of a computer Description automatically generated with low confidence](media/92e96f170ce37dfc307da542edaf70df.png)
+![Picture15](https://github.com/rupar19/AWS_Projects/assets/25507934/4956a22f-7b40-4105-a16f-65e2de58cc17)
 
 Save the lambda function and retry the Lex bot. First of all, try by choosing 'Saving' and saying the 'PinNumber' is 1234. We should now get a nice response from lex telling you of your account balance. However, now your Lex box will error if you enter an incorrect PinNumber which is not helpful to the user.
 
