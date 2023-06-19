@@ -323,8 +323,8 @@ When customer calls Amazon Connect the service has access to the caller number s
    ![Picture41](https://github.com/rupar19/AWS_Projects/assets/25507934/b648764f-c4eb-4cd4-beba-44ed512a7d81)
 
     " And add the lambda function to the workflow:
+![Picture42](https://github.com/rupar19/AWS_Projects/assets/25507934/f8dafcd4-b840-4ba9-ae3d-2590c99be846)
 
-    ![Picture42](https://github.com/rupar19/AWS_Projects/assets/25507934/8b67442c-3617-4753-aa8a-1123e06bc843)
 -   Review the Advanced_Workflow by Importing it as a new Flow, in this flow we add following steps:
 -   Invoke our AWS Lambda function
 -   The Lambda function returns an Object in which we define whether there is a CustomerMatch (CustomerMatch = 0/1)
