@@ -116,7 +116,7 @@ To do this, we go back to the Lex Console.
 -   Ensure the 'GetBalanceCheck' intent is selected.
 -   Make sure that the 'Latest' version is selected for both the bot and the intent.
 
-    ![](media/77881d144c007bab99b943446eeb3b71.png)
+  ![Picture13](https://github.com/rupar19/AWS_Projects/assets/25507934/17d26f3e-8682-4c31-935b-6e44539d8134)
 
 -   Scroll down to "Fulfillment", select "AWS Lambda function", choose "myPersonalBanker" and click "OK" in the popup warning window which opens. It indicates you are giving Lex the permission to run this Lambda function.
 
