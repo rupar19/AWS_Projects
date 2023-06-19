@@ -205,8 +205,7 @@ When creating a new Connect environment, there is a default workflow available u
 -   Browse and find the file labelled Simple Workflow
 -   Once the flow is uploaded you will see the following flow:
 
-![](media/b14f44271741a1387ac9556aaaa0dcc4.png)
-
+![Picture24](https://github.com/rupar19/AWS_Projects/assets/25507934/e94304ca-af58-4d2d-8fdc-01299122e997)
 The top line of the flow diagram configures the flow, including the choice of Amazon voice for dialogue prompts, enabling call recordings to be stored in S3 buckets, and routing all calls to the default queue.
 
 On the second line we create a message to say to the customer dialing in:
