@@ -71,7 +71,7 @@ Amazon Lex is a service that allows us to build conversational interfaces in app
 
 Add another slot and add the name as "PinNumber". Select the slot type AMAZON.FOUR_DIGIT_NUMBER and add the prompt as "what is your pin number for your {AccountType} account". Ensure you click on the plus icon to add your new slot.
 
-![A screenshot of a computer Description automatically generated with low confidence](media/47cfe59e8c0127ee743a804ac57240b0.png)
+![p8](https://github.com/rupar19/AWS_Projects/assets/25507934/937aa033-91c1-4153-9cef-436a23a9bf41)
 
 It is worth noting as you build other intents you can modify the order of the Slot collection (i.e. what questions get asked in which order) and also whether or not the slot is "Required" before passing the values to our external function.
 
