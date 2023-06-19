@@ -147,7 +147,8 @@ Save the lambda function and retry the Lex bot. First of all, try by choosing 'S
 
   ![Picture17](https://github.com/rupar19/AWS_Projects/assets/25507934/c3dec7f4-e45f-4105-818e-efa3fdfc5bbe)
 
-    ![](media/b1865a4b67a9737d5d455cef70aff6e3.png)
+ ![Picture18](https://github.com/rupar19/AWS_Projects/assets/25507934/dcdd1e14-53c6-425a-81ed-54a27b6bb234)
+
 
 # Conclusion
 
