@@ -25,7 +25,8 @@ Amazon Lex is a service that allows us to build conversational interfaces in app
 -   Choose "No" to the Children's Online Privacy Protection Act (COPPA) question.
 -   The form should now look as follows, noting that we're going to accept the default IAM role.
 
-    ![A screenshot of a computer Description automatically generated with medium confidence](media/8c576ca7668b6164255d5afde26bfd5a.png)
+   ![p1](https://github.com/rupar19/AWS_Projects/assets/25507934/88321370-35b9-4905-be75-c4bfca604635)
+
 
 -   Click "Create"
 -   We will start by creating an intent, which represents an action that the user wants to perform. For example, we're going to create one intent in this lab for "Get Balance Check”; (If you have time afterwards you can create a separate intent for getting last transaction) Click the "Create Intent" button.
