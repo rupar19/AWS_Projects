@@ -145,7 +145,7 @@ Save the lambda function and retry the Lex bot. First of all, try by choosing 'S
 
     If we modify the lambda function and look for the line 'return balanceIntentError(intentRequest, callback);' and place '//' before this line and remove the '//' from the line below so it looks like:
 
-    ![A picture containing text, font, screenshot, line Description automatically generated](media/859d10439d4de9e15b3f774c2ec12a2b.png)
+  ![Picture17](https://github.com/rupar19/AWS_Projects/assets/25507934/c3dec7f4-e45f-4105-818e-efa3fdfc5bbe)
 
     ![](media/b1865a4b67a9737d5d455cef70aff6e3.png)
 
