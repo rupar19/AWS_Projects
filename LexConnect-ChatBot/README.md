@@ -181,7 +181,7 @@ Amazon Connect is a cloud-based contact centre solution that enables us to quick
 -   Once it is setup you will be presented with a screen which allows you to 'Get Started'
 -   The browser will pop up a warning to ask you show notifications - this is to allow the Connect Application to notify you when a call is coming in. Click allow on the pop up.
 
-    ![](media/01ae574a3c7f8274c62e10636c818a06.png)
+   ![Picture20](https://github.com/rupar19/AWS_Projects/assets/25507934/ce2134ba-8df5-4a24-9d01-b369c30abee9)
 
     ![A picture containing text, screenshot, font Description automatically generated](media/3f76aa1eadc9d9ee8c849289c74d5613.png)
 
