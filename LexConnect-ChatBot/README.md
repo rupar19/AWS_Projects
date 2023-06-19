@@ -99,7 +99,7 @@ Now we can transfer the slot answers to a function to handle logic and provide a
 -   Choose Node.js 14.x as the Runtime
 -   We will "Create new role from template – give it a Lex-style role name (such as "LexRole") and select "Test Harness permissions" as the policy template. Up to retrieve the actual account balances.
 
-    ![](media/ec765c6c9fa77789a0d7f1ce3bc4ec46.png)
+    ![p12](https://github.com/rupar19/AWS_Projects/assets/25507934/9e3036eb-5a5f-475e-afcd-9f4b46d97cad)
 
 -   Click "Create function" on the bottom right and you'll be take to the "Configuration" window. We are not adding any additional triggers, nor are we using Lambda Layers, so scroll down to the "Function code" section.
 -   Open the lambda function code you will find here (myPersonalBanker_v1.js). Copy and paste the code into the inline editor – make sure that you overwrite any template code that is already in the code box.
