@@ -218,20 +218,19 @@ The other items in the flow relate to what happen when an error occurs and the e
 
 -   The Contact Flow is complete, and we need to Publish it by clicking on the arrow next to save and choosing 'Save & Publish’.
 
-![](media/5743c0dc7afe36f3ceace1157a9b4d73.png)
-
+![Picture26](https://github.com/rupar19/AWS_Projects/assets/25507934/d89ca664-e196-4550-bbc7-23e6e6f65706)
 -   The flow is now created but it is not linked to the telephone number we created earlier. To associate the flow - chose 'Phone Numbers' from the Routing menu
 
-![](media/3725ed92717574c7fcf8afbcaa0bdebc.png)
+![Picture27](https://github.com/rupar19/AWS_Projects/assets/25507934/ba368ebb-b4f3-4b0f-a1d9-18819c153496)
 
 Click on the number and you will be presented with an Edit screen - choose Simple Workflow in the Contact flow / IVR section and click Save.
 
-![](media/17793d1e48a5b4ff5ffc650c8912e74c.png)
+![Picture28](https://github.com/rupar19/AWS_Projects/assets/25507934/771c0cf4-0414-4099-a336-588d8ad9596c)
 
 -   Wait a few seconds and then call your phone number again and see how the flow has changed. Maybe modify the text in the Play Prompt section of the flow and Republish and call in again and see how it changes?
 -   If you want to act as a Call Agent, you need to click on the phone icon in the top right of the screen and ensure you are set to 'Available’.
 
-    ![](media/c4b2a264d7afe5aee1138253127df968.png)
+  ![Picture29](https://github.com/rupar19/AWS_Projects/assets/25507934/bfd463d6-ef04-488d-9da3-b8c06659b16f)
 
 # Step 3: Adding your Lex bot into the flow.
 
@@ -240,8 +239,7 @@ We are now going to leverage the Lex Bot within the contact flow.
 -   First of all we need to give Amazon Connect permission to access your lex bot. Head to AWS Console page for your connect app and chose your Connect instance.
 -   Click on Contact flows and in the Amazon Lex section you can chose the Lex Bot you created earlier (ensure you click + Add Lex Bot link)
 
-    ![](media/ccf7d2b9415cc615dbce51698950b1c3.png)
-
+  ![Picture30](https://github.com/rupar19/AWS_Projects/assets/25507934/c63c2e96-fb4b-4651-ad91-b16f3bcb3fbe)
     We are now going to modify the simple workflow to integrate your Lex bot. On the left-hand menu chose "Interact" and drag "Get Customer Input" into your workflow.
 
     ![](media/c3d4e05a95a74df7652d82714a887e72.png)
