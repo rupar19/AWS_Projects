@@ -32,7 +32,7 @@ Amazon Lex is a service that allows us to build conversational interfaces in app
 -   We will start by creating an intent, which represents an action that the user wants to perform. For example, we're going to create one intent in this lab for "Get Balance Check”; (If you have time afterwards you can create a separate intent for getting last transaction) Click the "Create Intent" button.
 -   In the window that pops-up click the "Create intent" link
 
-    ![](media/6e2a482e56cf6490ef5c8de07a9412c1.png)
+   ![p2](https://github.com/rupar19/AWS_Projects/assets/25507934/ecb4f0e5-fdca-4d67-bbdf-a343d97805dc)
 
 -   Our first intent enables the user to get account details, so name this intent "GetBalanceCheck" then click "Add".
 
