@@ -183,7 +183,7 @@ Amazon Connect is a cloud-based contact centre solution that enables us to quick
 
    ![Picture20](https://github.com/rupar19/AWS_Projects/assets/25507934/ce2134ba-8df5-4a24-9d01-b369c30abee9)
 
-    ![A picture containing text, screenshot, font Description automatically generated](media/3f76aa1eadc9d9ee8c849289c74d5613.png)
+   ![Picture21](https://github.com/rupar19/AWS_Projects/assets/25507934/1f5a37b8-ec36-4b15-baa3-8e577b3c64d1)
 
 -   At this point your Call Centre is setup but you don't have any numbers, so you need to 'Claim your first number' - For this lab chose a UK Direct Dial Number and click 'Next'.
 -   This is the first number for your call centre - you now can call the number and go through the default first call example that is part of Amazon Connect by ringing the number that is allocated to you or click 'Skip for now'.
