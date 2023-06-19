@@ -87,7 +87,7 @@ The build process takes approximately a minute. Once complete, you can ask your 
 
 -   It is possible to give the user a simpler interface on the bot to multiple choice questions using Response Cards. If you click on the small cog icon next to the "AccountType" slot you get the option to add a "Prompt response card". Add a title "Select your card type" and add button title Saving Account (choose value Saving) and Current Account (value Current). Click "Save" and rebuild and test. You will now be presented with a multiple-choice option select.
 
-    ![](media/fe544f7b5995543861703ab46000fcf4.png)
+  ![p10](https://github.com/rupar19/AWS_Projects/assets/25507934/959bf0f0-67b8-47c3-ac83-c286e01f5561)
 
 # STEP 2- Fulfilling the Bot
 
