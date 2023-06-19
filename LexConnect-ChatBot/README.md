@@ -36,7 +36,8 @@ Amazon Lex is a service that allows us to build conversational interfaces in app
 
 -   Our first intent enables the user to get account details, so name this intent "GetBalanceCheck" then click "Add".
 
-    ![](media/6a7b8046d7492ef91863cd08f95810d5.png)
+    ![p3](https://github.com/rupar19/AWS_Projects/assets/25507934/19c916bc-a642-463e-a747-6c955c89ce52)
+    
 
 -   We now want to provide samples of what our user would type or say to perform this action (i.e. to activate this intent). Under "Sample utterances", type the below phrases and hit [enter] or click the blue "+" sign after each phrase. Make sure you do not add a question mark at the end of the phrase as this will cause build issues later.
 -   Check my bank balance.
