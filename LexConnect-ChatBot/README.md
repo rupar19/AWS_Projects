@@ -175,7 +175,7 @@ Amazon Connect is a cloud-based contact centre solution that enables us to quick
 -   The Connect application will automatically create you a S3 bucket and encrypt the data. Click 'Next Step'
 -   Finally click 'Create Instance'.
 
-    ![A screenshot of a computer Description automatically generated with medium confidence](media/c1cde01afda7d8066e7e38dd11cda43e.png)
+    ![Picture19](https://github.com/rupar19/AWS_Projects/assets/25507934/762349bc-d2af-4110-a4ad-295a951e1087)
 
 -   This may take a minute or two to setup.
 -   Once it is setup you will be presented with a screen which allows you to 'Get Started'
