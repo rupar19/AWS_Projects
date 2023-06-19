@@ -58,7 +58,7 @@ Amazon Lex is a service that allows us to build conversational interfaces in app
 -   Select restrict to Slot values and Synonyms.
 -   For Value, we want to allow the user to make queries against either their "Saving" or "Current" account so enter those as values, clicking the blue "+" sign after each word.
 
-![A screenshot of a computer Description automatically generated](media/8f0b4f8f8c7b4fd10ca2eda2f5cbd9e6.png)
+![p6](https://github.com/rupar19/AWS_Projects/assets/25507934/01e8794e-074c-4d6a-abe9-ee01677f819d)
 
 -   Click "Add slot to intent”.
 -   We now have to link the slot types to the Intent with additional information such as whether it is required or not and the prompt to use (ie how Lex will ask?) Enter 'What type of account do you have (current or saving?)'.
