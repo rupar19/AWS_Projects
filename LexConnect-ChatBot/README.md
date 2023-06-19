@@ -49,9 +49,9 @@ Amazon Lex is a service that allows us to build conversational interfaces in app
 -   Next, we define a slot which is information we need to process the users request. This information can be included in the utterance (query) that the user types or says, and if not included, Lex will prompt the user for the information. While Lex includes many built-in slot types (such as number, colour, city, food, etc), in this case we want to define a custom slot to get the account type that the user is referring to.
 -   Click on the blue "+" sign next to "Slot types" on the left-hand side of the screen and select the "Create slot type" link - note, "Slot types" is initially greyed out, and on some laptop screens may not be obvious.
 
-![p5](https://github.com/rupar19/AWS_Projects/assets/25507934/7a32c75c-0c15-465a-a459-16470ccdbfe3)
+![p11](https://github.com/rupar19/AWS_Projects/assets/25507934/a3624a45-0ad4-4457-8f86-ee09e959c23a)
 
-![](media/00b23f57470abec400a827f3e4d9fb9d.png)
+![p5](https://github.com/rupar19/AWS_Projects/assets/25507934/7a32c75c-0c15-465a-a459-16470ccdbfe3)
 
 -   Click create slot type Add slot type.
 -   For 'Slot type name' enter "AccountType" and optionally enter a description (although description is not required)
