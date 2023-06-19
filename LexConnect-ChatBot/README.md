@@ -83,7 +83,7 @@ If at any point you made a mistake in the steps above, selecting the "Latest" ve
 
 The build process takes approximately a minute. Once complete, you can ask your bot a question to test it. For example, you could type "what is my balance?" in the chat window, or click the microphone symbol, speak your request and client it again to have Lex translate your speech to text. At this stage since we have not added in the backend Lambda function, the response will be that the bot is ready for fulfilment and will show you the values which will be transferred.
 
-![](media/1c320c43f2d02cabeca7b4d8652bbb07.png)
+![p9](https://github.com/rupar19/AWS_Projects/assets/25507934/34c2f254-bc97-4e77-a806-fa9a1052b571)
 
 -   It is possible to give the user a simpler interface on the bot to multiple choice questions using Response Cards. If you click on the small cog icon next to the "AccountType" slot you get the option to add a "Prompt response card". Add a title "Select your card type" and add button title Saving Account (choose value Saving) and Current Account (value Current). Click "Save" and rebuild and test. You will now be presented with a multiple-choice option select.
 
