@@ -194,7 +194,7 @@ Amazon Connect revolves around creating customizable contact flows, and in this 
 
 When creating a new Connect environment, there is a default workflow available under the 'Routing' \> 'Contact Flows' section called 'Sample inbound flow (first call experience)'. However, for simplicity, we will create our own customized 'Simple flow'.
 
-![](media/40c9a44d55b68fcc3ed3c2a713860e01.png)
+![Picture22](https://github.com/rupar19/AWS_Projects/assets/25507934/e956a1f1-fb97-49ee-b859-9388b10fc2a2)
 
 -   We are going to import a premade 'Simple contact flow'. First of all download the following file to your computer Simple Workflow.
 -   Head back to the 'Contact Flows' section listed above and in the top right click on 'Create contact flow'.
