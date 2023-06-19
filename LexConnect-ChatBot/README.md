@@ -138,7 +138,8 @@ To modify the Lambda function, we need to locate the line containing "return sim
 
 Save the lambda function and retry the Lex bot. First of all, try by choosing 'Saving' and saying the 'PinNumber' is 1234. We should now get a nice response from lex telling you of your account balance. However, now your Lex box will error if you enter an incorrect PinNumber which is not helpful to the user.
 
-![](media/b2a53769fac2278d5ade9acdc9e6c801.png)
+![Picture16](https://github.com/rupar19/AWS_Projects/assets/25507934/54fa4a37-2f11-417e-b662-931976c332da)
+
 
 -   Finally, we are going to add some error handling and a feedback loop to the user until a correct PinNumber is entered. The code will check to see if there is an account match and if not will request the user tries again and resets the 'Slot'.
 
