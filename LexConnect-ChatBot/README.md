@@ -120,7 +120,8 @@ To do this, we go back to the Lex Console.
 
 -   Scroll down to "Fulfillment", select "AWS Lambda function", choose "myPersonalBanker" and click "OK" in the popup warning window which opens. It indicates you are giving Lex the permission to run this Lambda function.
 
-# ![](media/2534179e85ba022f3b360bdef0ed6080.png)
+![Picture14](https://github.com/rupar19/AWS_Projects/assets/25507934/c75cf6fd-4ca7-43f2-8f52-c7980e195bc6)
+
 
 -   Click "Save intent"
 -   Repeat the above steps 3, 4 and 5 for intents "GetLoanDetail" and "GetLoanProducts”.
