@@ -65,7 +65,7 @@ Amazon Lex is a service that allows us to build conversational interfaces in app
 -   In the existing Slot list change the "Name" field from "slotOne" to "AccountType" so that it matches the slot name that we specified when we created the sample utterances.
 -   Specify "What type of account do you want to check (Current or Savings)?" for the "Prompt" field. This prompt will be used by our bot if the user does not specify an account type when asking a question.
 
-    ![](media/c85ff7d74f1adafba246c5374a84bd84.png)
+   ![p7](https://github.com/rupar19/AWS_Projects/assets/25507934/d16c5958-95bf-48f6-b8aa-05547eec669c)
 
 -   We are now going to ask a security follow up question and ask the user to enter their four-digit pin number.
 
